@@ -1,4 +1,12 @@
 ## Details
+
+### Project: Timeline Generator
+
+### Description: A Site where you can input the number of elements and a timeline shape is generated for you having that number of elements in TLDraw.
+
+### Created as a subsmission for a coding challenge at alai.com
+### Even though I didn't get selected, I am very glad at how this project turned out and had a lot of fun working on it.
+
 ### Name: Mohit Ruwatia
 
 ### Email: mohitruwatia2312@gmail.com
